@@ -3,7 +3,7 @@
 A modern and responsive developer portfolio built with Next.js, React, Tailwind CSS, and Framer Motion.
 
 ## 🚀 Live Demo
-https://your-portfolio.vercel.app
+https://portfolio-ayush-azure.vercel.app
 
 ## 📸 Preview
 (Add a screenshot here)
