@@ -99,8 +99,8 @@ export default function About() {
             style={{ gap: "1.5rem", marginTop: "3rem" }}
           >
             {[
-              { emoji: "🚀", stat: "3+", label: "Projects", sub: "Completed Successfully" },
-              { emoji: "🏆", stat: "5+", label: "Certificates", sub: "Industry & Academic" },
+              { emoji: "🚀", stat: "4+", label: "Projects", sub: "Completed Successfully" },
+              { emoji: "🏆", stat: "10+", label: "Certificates", sub: "Industry & Academic" },
               { emoji: "🎓", stat: "2027", label: "Graduation", sub: "B.Tech CSE" },
             ].map((item, i) => (
               <motion.div
