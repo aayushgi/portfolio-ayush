@@ -56,13 +56,13 @@ const categories = {
   Database: [
     { name: "MySQL", icon: <SiMysql size={28} /> },
     { name: "SQLite", icon: <SiSqlite size={28} /> },
-    { name: "PostgreSQL", icon: <SiPostgresql size={28} /> },
+    
   ],
   Tools: [
     { name: "Git", icon: <SiGit size={28} /> },
     { name: "GitHub", icon: <SiGithub size={28} /> },
     { name: "VS Code", icon: <VscCode size={28} /> },
-    { name: "Postman", icon: <SiPostman size={28} /> },
+    
   ],
 };
 
