@@ -12,6 +12,14 @@ const projects = [
     live: "https://online-admission-system-l9f1.onrender.com",
   },
   {
+    title: "Mansik-Santulan(Student Wellness Analytics)",
+    description:
+      "Developed a Machine Learning-based Mental Health Prediction System that analyzes students' social media usage and lifestyle factors to predict potential mental health risks. Performed data preprocessing, exploratory data analysis (EDA), feature engineering, and trained classification models using Scikit-learn. Built an interactive web application using FastAPI for model inference and integrated a user-friendly frontend for real-time predictions.",
+    tech: ["Python", "Pandas", "Scikit-learn", "Numpy","FastAPI","Joblib"],
+    github: "https://github.com/aayushgi/DS_Projects/tree/main/mansik_santulan",
+    live: "https://mental-health-score-l954.onrender.com",
+  },
+  {
     title: "Movie Recommendation System",
     description:
       "Content-based movie recommendation system built using Machine Learning and deployed with Streamlit.",
@@ -27,6 +35,7 @@ const projects = [
     github: "https://github.com/aayushgi/Python_New/tree/master/ML%20Projects/credit_wise_loan_approval",
     live: "#",
   },
+  
 ];
 
 export default function Projects() {
